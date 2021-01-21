@@ -1,6 +1,8 @@
 # korzun
 a lil repo containing all the shit of our efforts
+
 ПРИ ОТПРАВКЕ МЕНЯЕМ ДАТУ
+
 Задача 1 
 1) [DONE]
 
